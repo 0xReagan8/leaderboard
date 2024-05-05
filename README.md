@@ -1,2 +1,1 @@
-# leaderboard
-autonomous leaderboard
+# autonomous-discord-bot
