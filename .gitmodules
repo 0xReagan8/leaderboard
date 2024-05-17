@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = git@10.144.245.0:0xReagan8/autonomous_tickets_lib.git
